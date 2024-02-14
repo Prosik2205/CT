@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "code",
+			"path": "../../../Desktop/Machine_Learning-main/code"
+		},
+		{
+			"name": "Data",
+			"path": "../../../Desktop/Machine_Learning-main/Data"
+		},
+		{
+			"name": "Python_Exam",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
